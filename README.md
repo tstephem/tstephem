@@ -5,18 +5,6 @@
 # Hi, I'm Thiago Stephem
 
 
-<h2> <img src="https://emoji.gg/assets/emoji/7817-pogdog.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 ^^ </h2>
-
-👨‍🎓 **Studying**: Statistics and Atuarial Science
-
-📚 **Learning**: Neural Networks in Python and ML stuffs
-
-👨‍🎓 **Trying to learn**: Chess ♟️
-
-😀 **Pronoums**: He/Him
-
-
-
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
